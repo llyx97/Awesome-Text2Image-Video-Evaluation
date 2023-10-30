@@ -9,9 +9,12 @@ Summary of text-to-image/video synthesis evaluation papers
   [![Star](https://img.shields.io/github/stars/bioinf-jku/TTUR.svg?style=social&label=Star)](https://github.com/bioinf-jku/TTUR) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1706.08500)
   
-+ [Towards Accurate Generative Models of Video: A New Metric & Challenges](https://arxiv.org/abs/1812.01717) (Dec., 2018)  
++ [Towards Accurate Generative Models of Video: A New Metric & Challenges](https://arxiv.org/abs/1812.01717) (Dec., 2018)
   [code](https://github.com/google-research/google-research/tree/master/frechet_video_distance) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.01717) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.01717)
+
++ [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)
+  [![Star](https://img.shields.io/github/stars/mseitzer/pytorch-fid.svg?style=social&label=Star)](https://github.com/mseitzer/pytorch-fid)
 
 ### Benchmarks
 + [Benchmarking and Evaluating Large Video Generation Models](https://arxiv.org/abs/2310.11440) (Oct., 2023)  
