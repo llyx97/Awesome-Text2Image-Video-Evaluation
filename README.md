@@ -9,13 +9,14 @@ Summary of text-to-image/video synthesis evaluation papers
   [![Star](https://img.shields.io/github/stars/vqassessment/dover.svg?style=social&label=Star)](https://github.com/vqassessment/dover)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.04894)
 
-+ [On Aliased Resizing and Surprising Subtleties in GAN Evaluation](https://arxiv.org/abs/2104.11222) (Apr., 2021)  
-  [![Star](https://img.shields.io/github/stars/GaParmar/clean-fid.svg?style=social&label=Star)](https://github.com/GaParmar/clean-fid)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.11222)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.cs.cmu.edu/~clean-fid/)
++ Fréchet Inception Distance (FID)
+  + [On Aliased Resizing and Surprising Subtleties in GAN Evaluation](https://arxiv.org/abs/2104.11222) (Apr., 2021)
+    [![Star](https://img.shields.io/github/stars/GaParmar/clean-fid.svg?style=social&label=Star)](https://github.com/GaParmar/clean-fid)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.11222)
+    [![Website](https://img.shields.io/badge/Website-9cf)](https://www.cs.cmu.edu/~clean-fid/)
 
-+ [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)  
-  [![Star](https://img.shields.io/github/stars/mseitzer/pytorch-fid.svg?style=social&label=Star)](https://github.com/mseitzer/pytorch-fid)
+  + [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)  
+    [![Star](https://img.shields.io/github/stars/mseitzer/pytorch-fid.svg?style=social&label=Star)](https://github.com/mseitzer/pytorch-fid)
   
 + [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) (Jun., 2017)  
   [![Star](https://img.shields.io/github/stars/bioinf-jku/TTUR.svg?style=social&label=Star)](https://github.com/bioinf-jku/TTUR) 
