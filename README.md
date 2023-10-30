@@ -3,6 +3,10 @@ Summary of text-to-image/video synthesis evaluation papers
 
 
 ### Text-Image/Video Alignment Metrics
++ CLIPScore
+  + [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718) (Apr., 2021)  
+    [![Star](https://img.shields.io/github/stars/jmhessel/clipscore.svg?style=social&label=Star)](https://github.com/jmhessel/clipscore)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.08718)
 
 ### Image/Video Quality Metrics
 + [Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives](https://arxiv.org/abs/2211.04894) (Nov., 2022)  
@@ -61,6 +65,11 @@ Summary of text-to-image/video synthesis evaluation papers
     [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/)
     [data](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0)
 
++ PaintSkills
+  + [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models](https://arxiv.org/abs/2202.04053) (Feb., 2022)
+    [![Star](https://img.shields.io/github/stars/j-min/dalleval.svg?style=social&label=Star)](https://github.com/j-min/dalleval)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
+    
 + MSR-VTT
   + [MSR-VTT: A large video description dataset for bridging video and language.](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) (Jun., 2016)  
     [![Website](https://img.shields.io/badge/Website-9cf)](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/)
