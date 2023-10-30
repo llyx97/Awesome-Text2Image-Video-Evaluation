@@ -60,3 +60,13 @@ Summary of text-to-image/video synthesis evaluation papers
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/)
     [data](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0)
+
++ MSR-VTT
+  + [MSR-VTT: A large video description dataset for bridging video and language.](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) (Jun., 2016)  
+    [![Website](https://img.shields.io/badge/Website-9cf)](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/)
+    [data](https://cove.thecvf.com/datasets/839)
+    
++ UCF101
+  + [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://arxiv.org/abs/1212.0402) (Dec., 2012)  
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1212.0402)
+    [![Website](https://img.shields.io/badge/Website-9cf)](https://www.crcv.ucf.edu/data/UCF101.php)
