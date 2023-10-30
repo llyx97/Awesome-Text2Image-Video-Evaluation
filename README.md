@@ -16,6 +16,11 @@ Summary of text-to-image/video synthesis evaluation papers
 + [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)  
   [![Star](https://img.shields.io/github/stars/mseitzer/pytorch-fid.svg?style=social&label=Star)](https://github.com/mseitzer/pytorch-fid)
 
++ [On Aliased Resizing and Surprising Subtleties in GAN Evaluation](https://arxiv.org/abs/1706.08500) (Apr., 2021)  
+  [![Star](https://img.shields.io/github/stars/GaParmar/clean-fid.svg?style=social&label=Star)](https://github.com/GaParmar/clean-fid)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.11222)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.cs.cmu.edu/~clean-fid/)
+
 ### Benchmarks
 + [Benchmarking and Evaluating Large Video Generation Models](https://arxiv.org/abs/2310.11440) (Oct., 2023)  
   [![Star](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/EvalCrafter/EvalCrafter)
