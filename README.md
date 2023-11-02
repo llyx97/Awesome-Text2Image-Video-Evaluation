@@ -9,26 +9,31 @@ Summary of text-to-image/video synthesis evaluation papers
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15328)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://vp-t2i.github.io/)
     
-+ VQ^2
-  + [What You See is What You Read? Improving Text-Image Alignment Evaluation](https://arxiv.org/abs/2305.10400) (May., 2023)  
-    [![Star](https://img.shields.io/github/stars/yonatanbitton/wysiwyr.svg?style=social&label=Star)](https://github.com/yonatanbitton/wysiwyr)
-    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10400)
-    
 + LLMScore
   + [LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation](https://arxiv.org/abs/2305.11116) (May., 2023)  
     [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/yujielu10/llmscore)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11116)
-    
-+ TIFA
-  + [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897) (Mar., 2023)  
-    [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/Yushi-Hu/tifa)
-    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11897)
-    [![Website](https://img.shields.io/badge/Website-9cf)](https://tifa-benchmark.github.io/)
-    
-+ CLIPScore
-  + [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718) (Apr., 2021)  
-    [![Star](https://img.shields.io/github/stars/jmhessel/clipscore.svg?style=social&label=Star)](https://github.com/jmhessel/clipscore)
-    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.08718)
+
++ VQA-based Metrics
+  + VQ^2
+    + [What You See is What You Read? Improving Text-Image Alignment Evaluation](https://arxiv.org/abs/2305.10400) (May., 2023)  
+      [![Star](https://img.shields.io/github/stars/yonatanbitton/wysiwyr.svg?style=social&label=Star)](https://github.com/yonatanbitton/wysiwyr)
+      [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10400)
+      
+  + TIFA
+    + [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897) (Mar., 2023)  
+      [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/Yushi-Hu/tifa)
+      [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11897)
+      [![Website](https://img.shields.io/badge/Website-9cf)](https://tifa-benchmark.github.io/)
+
++ Embedding-based Metrics
+  + UMTScore
+    + [FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation](https://neurips.cc/virtual/2023/poster/73413)  
+      [![Star](https://img.shields.io/github/stars/llyx97/FETV.svg?style=social&label=Star)](https://github.com/llyx97/FETV)
+  + CLIPScore
+    + [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718) (Apr., 2021)  
+      [![Star](https://img.shields.io/github/stars/jmhessel/clipscore.svg?style=social&label=Star)](https://github.com/jmhessel/clipscore)
+      [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.08718)
 
 ### Image/Video Quality Metrics
 + [Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives](https://arxiv.org/abs/2211.04894) (Nov., 2022)  
