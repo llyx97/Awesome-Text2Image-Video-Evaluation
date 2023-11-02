@@ -3,6 +3,12 @@ Summary of text-to-image/video synthesis evaluation papers
 
 
 ### Text-Image/Video Alignment Metrics
++ VPEval
+  + [Visual Programming for Text-to-Image Generation and Evaluation](https://arxiv.org/abs/2305.15328) (May., 2023)  
+    [![Star](https://img.shields.io/github/stars/aszala/VPEval.svg?style=social&label=Star)](https://github.com/aszala/VPEval)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15328)
+    [![Website](https://img.shields.io/badge/Website-9cf)](https://vp-t2i.github.io/)
+    
 + VQ^2
   + [What You See is What You Read? Improving Text-Image Alignment Evaluation](https://arxiv.org/abs/2305.10400) (May., 2023)  
     [![Star](https://img.shields.io/github/stars/yonatanbitton/wysiwyr.svg?style=social&label=Star)](https://github.com/yonatanbitton/wysiwyr)
