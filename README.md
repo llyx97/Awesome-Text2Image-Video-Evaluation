@@ -8,6 +8,11 @@ Summary of text-to-image/video synthesis evaluation papers
     [![Star](https://img.shields.io/github/stars/yonatanbitton/wysiwyr.svg?style=social&label=Star)](https://github.com/yonatanbitton/wysiwyr)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10400)
     
++ LLMScore
+  + [LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation](https://arxiv.org/abs/2305.11116) (May., 2023)  
+    [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/yujielu10/llmscore)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11116)
+    
 + TIFA
   + [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897) (Mar., 2023)  
     [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/Yushi-Hu/tifa)
@@ -63,6 +68,12 @@ Summary of text-to-image/video synthesis evaluation papers
     [![Star](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/EvalCrafter/EvalCrafter)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://evalcrafter.github.io/)
+
++ TIFA
+  + [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897) (Mar., 2023)  
+    [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/Yushi-Hu/tifa)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11897)
+    [![Website](https://img.shields.io/badge/Website-9cf)](https://tifa-benchmark.github.io/)
     
 + PartiPrompts
   + [Scaling Autoregressive Models for Content-Rich Text-to-Image Generation](https://arxiv.org/abs/2206.10789) (Jun., 2022)  
