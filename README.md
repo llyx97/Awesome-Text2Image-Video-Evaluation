@@ -3,6 +3,12 @@ Summary of text-to-image/video synthesis evaluation papers
 
 
 ### Text-Image/Video Alignment Metrics
++ TIFA
+  + [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897) (Mar., 2023)  
+    [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/Yushi-Hu/tifa)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11897)
+    [![Website](https://img.shields.io/badge/Website-9cf)](https://tifa-benchmark.github.io/)
+    
 + CLIPScore
   + [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718) (Apr., 2021)  
     [![Star](https://img.shields.io/github/stars/jmhessel/clipscore.svg?style=social&label=Star)](https://github.com/jmhessel/clipscore)
