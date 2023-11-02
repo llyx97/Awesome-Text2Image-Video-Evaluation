@@ -65,45 +65,50 @@ Summary of text-to-image/video synthesis evaluation papers
 
 
 ### Benchmarks
-+ FETV
++ FETV (video)
   + [FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation](https://neurips.cc/virtual/2023/poster/73413)  
     [![Star](https://img.shields.io/github/stars/llyx97/FETV.svg?style=social&label=Star)](https://github.com/llyx97/FETV)
 
-+ EvalCrafter
++ EvalCrafter (video)
   + [Benchmarking and Evaluating Large Video Generation Models](https://arxiv.org/abs/2310.11440) (Oct., 2023)  
     [![Star](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/EvalCrafter/EvalCrafter)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://evalcrafter.github.io/)
 
-+ TIFA
++ TIFA (image)
   + [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897) (Mar., 2023)  
     [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/Yushi-Hu/tifa)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11897)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://tifa-benchmark.github.io/)
     
-+ PartiPrompts
++ PartiPrompts (image)
   + [Scaling Autoregressive Models for Content-Rich Text-to-Image Generation](https://arxiv.org/abs/2206.10789) (Jun., 2022)  
     [![Star](https://img.shields.io/github/stars/google-research/parti.svg?style=social&label=Star)](https://github.com/google-research/parti)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.10789)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.research.google/parti/)
     
-+ DrawBench
++ DrawBench (image)
   + [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) (May., 2022)  
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/)
     [data](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0)
 
-+ PaintSkills
++ PaintSkills (image)
   + [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models](https://arxiv.org/abs/2202.04053) (Feb., 2022)
     [![Star](https://img.shields.io/github/stars/j-min/dalleval.svg?style=social&label=Star)](https://github.com/j-min/dalleval)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
     
-+ MSR-VTT
-  + [MSR-VTT: A large video description dataset for bridging video and language.](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) (Jun., 2016)  
++ MSR-VTT (video)
+  + [MSR-VTT: A large video description dataset for bridging video and language](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) (Jun., 2016)  
     [![Website](https://img.shields.io/badge/Website-9cf)](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/)
     [data](https://cove.thecvf.com/datasets/839)
     
-+ UCF101
++ Kinetics (video)
+  + [The Kinetics Human Action Video Dataset](https://arxiv.org/abs/1705.06950) (May., 2017)  
+    [![Star](https://img.shields.io/github/stars/j-min/dalleval.svg?style=social&label=Star)](https://github.com/google-deepmind/kinetics-i3d)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1705.06950)
+    
++ UCF101 (video)
   + [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://arxiv.org/abs/1212.0402) (Dec., 2012)  
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1212.0402)
     [![Website](https://img.shields.io/badge/Website-9cf)](https://www.crcv.ucf.edu/data/UCF101.php)
