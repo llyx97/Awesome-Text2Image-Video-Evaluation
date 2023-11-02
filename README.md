@@ -3,6 +3,11 @@ Summary of text-to-image/video synthesis evaluation papers
 
 
 ### Text-Image/Video Alignment Metrics
++ VQ^2
+  + [What You See is What You Read? Improving Text-Image Alignment Evaluation](https://arxiv.org/abs/2305.10400) (May., 2023)  
+    [![Star](https://img.shields.io/github/stars/yonatanbitton/wysiwyr.svg?style=social&label=Star)](https://github.com/yonatanbitton/wysiwyr)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10400)
+    
 + TIFA
   + [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897) (Mar., 2023)  
     [![Star](https://img.shields.io/github/stars/Yushi-Hu/tifa.svg?style=social&label=Star)](https://github.com/Yushi-Hu/tifa)
