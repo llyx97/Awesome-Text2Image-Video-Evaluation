@@ -30,6 +30,7 @@ Summary of text-to-image/video synthesis evaluation papers
   + UMTScore
     + [FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation](https://neurips.cc/virtual/2023/poster/73413)  
       [![Star](https://img.shields.io/github/stars/llyx97/FETV.svg?style=social&label=Star)](https://github.com/llyx97/FETV)
+      [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.01813)
   + CLIPScore
     + [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718) (Apr., 2021)  
       [![Star](https://img.shields.io/github/stars/jmhessel/clipscore.svg?style=social&label=Star)](https://github.com/jmhessel/clipscore)
@@ -73,6 +74,7 @@ Summary of text-to-image/video synthesis evaluation papers
 + FETV (video)
   + [FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation](https://neurips.cc/virtual/2023/poster/73413)  
     [![Star](https://img.shields.io/github/stars/llyx97/FETV.svg?style=social&label=Star)](https://github.com/llyx97/FETV)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.01813)
 
 + EvalCrafter (video)
   + [Benchmarking and Evaluating Large Video Generation Models](https://arxiv.org/abs/2310.11440) (Oct., 2023)  
