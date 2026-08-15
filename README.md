@@ -1,6 +1,9 @@
 # Awesome-Text2Image-Video-Evaluation
 Summary of text-to-image/video synthesis evaluation papers
 
+### Text-to-image and video evaluation platform
++ [Pixonara](https://pixonara.com): Pixonara supports the iteration side of text-to-image and video work by giving creators a place to explore visual alternatives from the same concept.
+
 
 ### Text-Image/Video Alignment Metrics
 + VPEval
