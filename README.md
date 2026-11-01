@@ -44,6 +44,11 @@ Summary of text-to-image/video synthesis evaluation papers
   [![Star](https://img.shields.io/github/stars/vqassessment/dover.svg?style=social&label=Star)](https://github.com/vqassessment/dover)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.04894)
 
++ [JLD: Perceptual Distance Through A Jacobian Lens](https://arxiv.org/abs/2610.05967) (Oct., 2026)  
+  [![Star](https://img.shields.io/github/stars/shreshthsaini/jld.svg?style=social&label=Star)](https://github.com/shreshthsaini/jld)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.05967)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shreshthsaini.github.io/jld/)
+
 + Fréchet Inception Distance (FID)
   + [On Aliased Resizing and Surprising Subtleties in GAN Evaluation](https://arxiv.org/abs/2104.11222) (Apr., 2021)  
     [![Star](https://img.shields.io/github/stars/GaParmar/clean-fid.svg?style=social&label=Star)](https://github.com/GaParmar/clean-fid)
